@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Áo quần nam",
+      "price": 10000,
+      "quantity": 10,
+      "oldPrice": 20000,
+      "img": "https://aothudong.com/upload/product/atd-187/ao-thun-nam-dai-tay-xanh-cuc-chat-0.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Áo quần nữ",
+      "price": 10000,
+      "quantity": 10,
+      "oldPrice": 20000,
+      "img": "https://aothudong.com/upload/product/atd-188/thumb/ao-thun-nam-dai-tay-trang-cuc-chat_x450.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Áo quần nam",
+      "price": 10000,
+      "quantity": 10,
+      "oldPrice": 20000,
+      "img": "https://vn-live-03.slatic.net/p/5df8edb16c4842f532c2c0f81cd1069f.jpg"
+    }
+  ]
+}
